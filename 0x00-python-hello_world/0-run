@@ -1,2 +1,2 @@
-#Shell script that runs a Python script
-print(f"Best School")
+#!/bin/bash
+python $PYFILE
