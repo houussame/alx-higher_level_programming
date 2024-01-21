@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 '''module for Base class'''
 
-Class Base:
+class Base:
     '''representation of Basse class''' 
 
     __nb_objects = 0
